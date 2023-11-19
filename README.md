@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓  I will graduate from the ISEP digital engineering school in 2024<br>💻  I'm a data engineer and a full-stack developer specialized in Web3<br>❤️‍🔥 I'm passionate about decentralized technologies and their potential to change the world<br>👊🏻  I have a strong experience in designing and developing smart contracts and dApps, as well as integrating blockchain solutions into web applications<br>⚡️ I'm also curious and eager to learn about new technologies and to participate in innovative projects
+👨🏻‍🎓  I am currently doing an MSc in Computational and Software Techniques in Engineering - Computational Intelligence for Data Analytics at Cranfield University.<br>💻  I'm a data engineer and a full-stack developer specialized in Web3<br>❤️‍🔥 I'm passionate about decentralized technologies and their potential to change the world<br>👊🏻  I have a strong experience in designing and developing smart contracts and dApps, as well as integrating blockchain solutions into web applications<br>⚡️ I'm also curious and eager to learn about new technologies and to participate in innovative projects.
 
 
 ## 🌐 Socials:
