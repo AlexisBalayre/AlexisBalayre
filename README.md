@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexis Balayre</h1>
-<h3 align="center">French engineer with expertise in Data Engineering, Machine Learning and Blockchain.</h3>
+<h3 align="center">French AI Engineer with expertise in Data Science, Software Engineering, Machine Learning, and Blockchain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisbalayre&label=Profile%20views&color=0e75b6&style=flat" alt="alexisbalayre" /> </p>
 
 # 💫 About Me
-👨🏻‍🎓  I am currently doing an MSc in Computational Intelligence for Data Analytics at Cranfield University.<br>💻  I'm a Machine Learning Engineer and a Full-Stack Developer specialised in Web3.<br>❤️‍🔥 I'm passionate about decentralised technologies and their potential to change the world.<br>👊🏻 I have a strong experience in designing and developing smart contracts and dApps, as well as integrating blockchain solutions into web applications.<br>👨‍💻 All of my projects are available at [https://alexis.balayre.com/](https://alexis.balayre.com/)<br>📫 How to reach me **alexis@balayre.com**
+👨🏻‍🎓  About to graduate from a dual Master's degree in Computational Intelligence for Data Analytics from Cranfield University and Data Intelligence from ISEP.<br>💻  Machine learning engineer with 5 years' experience in Python. Have a look on my portfolio to learn more: [https://alexis.balayre.com/](https://alexis.balayre.com/)<br>📫 How to reach me **alexis@balayre.com**<br>💼 Open to opportunities in Artificial Intelligence Engineering from September 2024.
 
 # 🌐 Connect with me
 <p align="left">
