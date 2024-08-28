@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexisbalayre&label=Profile%20views&color=0e75b6&style=flat" alt="alexisbalayre" /> </p>
 
 # 💫 About Me
-👨🏻‍🎓  About to graduate from a dual Master's degree in Computational Intelligence for Data Analytics from Cranfield University and Data Intelligence from ISEP.<br>💻  Machine learning engineer with 5 years' experience in Python. Have a look on my portfolio to learn more: [https://alexis.balayre.com/](https://alexis.balayre.com/)<br>📫 How to reach me **alexis@balayre.com**<br>💼 Open to opportunities in Artificial Intelligence Engineering from September 2024.
+👨🏻‍🎓  About to graduate from a dual Master's degree in Computational Intelligence for Data Analytics from Cranfield University and Data Intelligence from ISEP.<br>💻  Machine learning engineer with 5 years' experience in Python. Have a look on my portfolio to learn more: [https://alexis.balayre.com/](https://alexis.balayre.com/)<br>💼 Open to opportunities in Artificial Intelligence Engineering from September 2024.<br>📫 How to reach me **alexis@balayre.com**
 
 # 🌐 Connect with me
 <p align="left">
