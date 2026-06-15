@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=102a56&height=180&section=header&text=Alexis%20Balayre&fontColor=ffffff&fontSize=50&fontAlignY=46&desc=Turning%20speech%20into%20understanding,%20in%20real%20time&descAlignY=66&descSize=16&v=navy3" alt="header" />
+<img width="100%" src="assets/header.svg" alt="Alexis Balayre, AI Engineer specialising in real-time speech AI" />
 
 <a href="https://github.com/AlexisBalayre">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=AI+Engineer+%C2%B7+Real-Time+Speech+AI;Streaming+ASR+%E2%86%92+LLM+Translation+%E2%86%92+TTS;Agentic+Systems+%C2%B7+Applied+ML;Passionate+about+AI+Security" alt="typing" />
@@ -85,4 +85,4 @@ Dual Master's in Computational Intelligence for Data Analytics ([Cranfield Unive
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=102a56&height=80&section=footer&v=navy3" alt="footer" />
+<img width="100%" src="assets/footer.svg" alt="" />
