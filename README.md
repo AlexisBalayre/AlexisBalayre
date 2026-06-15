@@ -13,7 +13,7 @@
 
 ---
 
-AI Engineer specialising in real-time speech AI, with a dual background in Software Engineering and Data Science. At [Acolad](https://www.acolad.com/) I design, build, and operate [Lia Live](https://www.acolad.com/en/lia/live), delivering AI speech translation with sub-second latency across 30+ languages, owning features end to end from applied speech research and model evaluation to production infrastructure on Kubernetes. Beyond speech, I work across agentic systems, LLM and RAG applications, and applied ML, turning prototypes into production. Particularly passionate about AI security: building AI that is not only capable, but secure and trustworthy.
+AI Engineer specialising in real-time speech AI, with a dual background in Software Engineering and Data Science. At [Acolad](https://www.acolad.com/) I design, build, and operate [Lia Live](https://www.acolad.com/en/lia/live), delivering AI speech translation with sub-second latency across 30+ languages, owning features end to end from applied speech research and model evaluation to production infrastructure. Beyond speech, I work across agentic systems, LLM and RAG applications, and applied ML, turning prototypes into production. Particularly passionate about AI security: building AI that is not only capable, but secure and trustworthy.
 
 ## 🧭 What I work on
 
