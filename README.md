@@ -80,8 +80,6 @@ Dual Master's in Computational Intelligence for Data Analytics ([Cranfield Unive
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisBalayre&layout=compact&hide_border=true&bg_color=0d1b3e&title_color=60a5fa&text_color=9fb3d1&langs_count=8" alt="top langs" />
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AlexisBalayre&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e56a0,50:13327a,100:0d1b3e&height=120&section=footer" alt="footer" />
