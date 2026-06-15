@@ -36,7 +36,6 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 | **[AuraHelpdeskGraph](https://github.com/AlexisBalayre/AuraHelpeskGraph)** | Support assistant combining local LLMs, vector search, and a Neo4j knowledge graph (GraphRAG) with function calling. | `Python` `Neo4j` `Ollama` |
 | **[RagDocs](https://github.com/AlexisBalayre/RagDocs)** | Private, API-free RAG over technical documentation with Milvus vector search and local LLMs. | `Python` `Milvus` `LlamaIndex` |
 | **[Aircraft Refuelling Prediction](https://github.com/AlexisBalayre/future-position-prediction-for-aircraft-refueling)** | Master's thesis with Airbus: YOLOv10 detection plus a custom SizPos-GRU sequence model predicting refuelling-port position in video. | `PyTorch` `OpenCV` `YOLOv10` |
-| **[PriceSense](https://github.com/AlexisBalayre/PriceSense)** | News-sentiment vs stock-price pipelines for real-time streaming and analysis. | `Spark` `Kafka` `Elasticsearch` |
 
 ## 🛠️ Tech & Tools
 
