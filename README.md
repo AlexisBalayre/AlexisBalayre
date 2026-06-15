@@ -2,10 +2,6 @@
 
 <img width="100%" src="assets/header.svg" alt="Alexis Balayre, AI Engineer specialising in real-time speech AI" />
 
-<a href="https://github.com/AlexisBalayre">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=AI+Engineer+%C2%B7+Real-Time+Speech+AI;Streaming+ASR+%E2%86%92+LLM+Translation+%E2%86%92+TTS;Agentic+Systems+%C2%B7+Applied+ML;Passionate+about+AI+Security" alt="typing" />
-</a>
-
 <p>
   <a href="https://alexis.balayre.com/"><img src="https://img.shields.io/badge/Portfolio-13327a?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://linkedin.com/in/alexis-balayre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xMyAyLjA3IDIuMDcgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjggMCAwIC43OCAwIDEuNzN2MjAuNTRDMCAyMy4yMi44IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzggMS43OC0xLjczVjEuNzNDMjQgLjc4IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPgo=" alt="linkedin" /></a>
@@ -36,7 +32,6 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 | **[AuraHelpdeskGraph](https://github.com/AlexisBalayre/AuraHelpeskGraph)** | Support assistant combining local LLMs, vector search, and a Neo4j knowledge graph (GraphRAG) with function calling. | `Python` `Neo4j` `Ollama` |
 | **[RagDocs](https://github.com/AlexisBalayre/RagDocs)** | Private, API-free RAG over technical documentation with Milvus vector search and local LLMs. | `Python` `Milvus` `LlamaIndex` |
 | **[Aircraft Refuelling Prediction](https://github.com/AlexisBalayre/future-position-prediction-for-aircraft-refueling)** | Master's thesis with Airbus: YOLOv10 detection plus a custom SizPos-GRU sequence model predicting refuelling-port position in video. | `PyTorch` `OpenCV` `YOLOv10` |
-| **[PriceSense](https://github.com/AlexisBalayre/PriceSense)** | News-sentiment vs stock-price pipelines for real-time streaming and analysis. | `Spark` `Kafka` `Elasticsearch` |
 
 ## 🛠️ Tech & Tools
 
@@ -80,8 +75,6 @@ Dual Master's in Computational Intelligence for Data Analytics ([Cranfield Unive
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisBalayre&hide_border=true&background=0d1b3e&stroke=1e56a0&ring=60a5fa&fire=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=60a5fa&sideLabels=9fb3d1&dates=64748b" alt="streak" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisBalayre&layout=compact&hide_border=true&bg_color=0d1b3e&title_color=60a5fa&text_color=9fb3d1&langs_count=8" alt="top langs" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AlexisBalayre&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
