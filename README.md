@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:13327a,100:1e56a0&height=200&section=header&text=Alexis%20Balayre&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Turning%20speech%20into%20understanding,%20in%20real%20time&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=102a56&height=180&section=header&text=Alexis%20Balayre&fontColor=ffffff&fontSize=50&fontAlignY=46&desc=Turning%20speech%20into%20understanding,%20in%20real%20time&descAlignY=66&descSize=16&v=navy3" alt="header" />
 
 <a href="https://github.com/AlexisBalayre">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=640&lines=AI+Engineer+%C2%B7+Real-Time+Speech+AI;Streaming+ASR+%E2%86%92+LLM+Translation+%E2%86%92+TTS;Agentic+Systems+%C2%B7+Applied+ML;Passionate+about+AI+Security" alt="typing" />
@@ -36,6 +36,7 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 | **[AuraHelpdeskGraph](https://github.com/AlexisBalayre/AuraHelpeskGraph)** | Support assistant combining local LLMs, vector search, and a Neo4j knowledge graph (GraphRAG) with function calling. | `Python` `Neo4j` `Ollama` |
 | **[RagDocs](https://github.com/AlexisBalayre/RagDocs)** | Private, API-free RAG over technical documentation with Milvus vector search and local LLMs. | `Python` `Milvus` `LlamaIndex` |
 | **[Aircraft Refuelling Prediction](https://github.com/AlexisBalayre/future-position-prediction-for-aircraft-refueling)** | Master's thesis with Airbus: YOLOv10 detection plus a custom SizPos-GRU sequence model predicting refuelling-port position in video. | `PyTorch` `OpenCV` `YOLOv10` |
+| **[PriceSense](https://github.com/AlexisBalayre/PriceSense)** | News-sentiment vs stock-price pipelines for real-time streaming and analysis. | `Spark` `Kafka` `Elasticsearch` |
 
 ## 🛠️ Tech & Tools
 
@@ -80,6 +81,8 @@ Dual Master's in Computational Intelligence for Data Analytics ([Cranfield Unive
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisBalayre&layout=compact&hide_border=true&bg_color=0d1b3e&title_color=60a5fa&text_color=9fb3d1&langs_count=8" alt="top langs" />
 
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=AlexisBalayre&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e56a0,50:13327a,100:0d1b3e&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=102a56&height=80&section=footer&v=navy3" alt="footer" />
