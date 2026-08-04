@@ -47,15 +47,4 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 
 Dual Master's in Computational Intelligence for Data Analytics ([Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)) and Data Intelligence ([ISEP, Paris](https://en.isep.fr/studying-at-isep/isep-engineering-master-degree/)). At Dassault Systèmes I built scalable data workflows and NLP pipelines (topic modelling, sentiment analysis, Generative AI, RAG) for competitive and market intelligence. My Master's research with Airbus at Cranfield combined LSTM, GRU, and Transformer architectures to improve predictive accuracy for automated aircraft refuelling systems.
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlexisBalayre&show_icons=true&hide_border=true&bg_color=0d1b3e&title_color=60a5fa&icon_color=3b82f6&text_color=9fb3d1" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexisBalayre&hide_border=true&background=0d1b3e&stroke=1e56a0&ring=60a5fa&fire=60a5fa&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=60a5fa&sideLabels=9fb3d1&dates=64748b" alt="streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisBalayre&layout=compact&hide_border=true&bg_color=0d1b3e&title_color=60a5fa&text_color=9fb3d1&langs_count=8" alt="top langs" />
-
-</div>
-
 <img width="100%" src="assets/footer.svg" alt="" />
