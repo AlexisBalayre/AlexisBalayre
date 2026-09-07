@@ -13,14 +13,14 @@
 
 ---
 
-AI Engineer specialising in real-time speech AI, with a dual background in Software Engineering and Data Science. At [Acolad](https://www.acolad.com/) I design, build, and operate [Lia Live](https://www.acolad.com/en/lia/live), delivering AI speech translation with sub-second latency across 30+ languages, owning features end to end from applied speech research and model evaluation to production infrastructure. Beyond speech, I work across agentic systems, LLM and RAG applications, and applied ML, turning prototypes into production. Particularly passionate about AI security: building AI that is not only capable, but secure and trustworthy.
+AI Engineer specialising in real-time speech AI, with a dual background in software engineering and data science. At [Acolad](https://www.acolad.com/) I build and run [Lia Live AI](https://www.acolad.com/en/lia/live), our AI interpreting platform: speech in, interpreted speech out in under a second, across 80+ languages. I own it end to end, from applied speech research and model evaluation to the production infrastructure behind live sessions. Beyond speech I work on agentic systems, LLM and RAG applications, and applied ML, turning prototypes into production. I care about AI security: as these systems take on more autonomy and more sensitive data, making them trustworthy matters as much as making them capable.
 
 ## 🧭 What I work on
 
-- 🎙️ **Real-time speech AI:** streaming ASR, LLM translation, and TTS, with latency engineering for sub-second pipelines
-- 🤖 **Agentic systems & LLM apps:** multi-step agents, tool and function calling, RAG and GraphRAG, agentic context-aware translation
-- 🧠 **Applied ML & deep learning:** computer vision, sequence models (LSTM, GRU, Transformer), research to production
-- ⚙️ **MLOps:** taking models from notebook to scalable services on Kubernetes
+- 🎙️ **Real-time speech AI:** streaming ASR, LLM translation and TTS, with the latency engineering to keep the whole pipeline under a second
+- 🤖 **Agentic systems & LLM apps:** tool and function calling, RAG and GraphRAG, translation grounded in conversation history and client glossaries
+- 📏 **Evaluation:** frameworks that settle model and provider choices on quality and latency, benchmarked against human baselines
+- ⚙️ **Production AI:** distributed backends, multi-provider routing, observability and cost attribution on Kubernetes
 
 > 🔭 Currently going deeper on speech model fine-tuning, inference optimisation, and on-device deployment.
 
@@ -28,10 +28,11 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[Claude Code Power Config](https://github.com/AlexisBalayre/claude-code-power-config)** | A production-ready Claude Code framework codifying a multi-agent, worktree-first workflow: project memory, path-scoped rules, auto-discoverable skills, domain subagents, and git safety hooks. | `Claude Code` `MCP` `Shell` |
-| **[AuraHelpdeskGraph](https://github.com/AlexisBalayre/AuraHelpeskGraph)** | Support assistant combining local LLMs, vector search, and a Neo4j knowledge graph (GraphRAG) with function calling. | `Python` `Neo4j` `Ollama` |
+| **[AI Daily Summary](https://github.com/AlexisBalayre/ai-daily-summary)** | Self-hosted pipeline that reads the day's AI news for you: ingests newsletters, RSS, GitHub and web crawls, summarises with an LLM, deduplicates by vector similarity, and sends a daily email with audio briefing. Queryable via chat API and MCP server. | `Python` `FastAPI` `pgvector` `MCP` |
+| **[Claude Code Power Config](https://github.com/AlexisBalayre/claude-code-power-config)** | Config template that turns Claude Code into a repeatable, reviewed workflow: file-scoped rules, 30 reusable workflows, 12 agents reviewing a PR in parallel, 7 hooks enforcing checks no model can skip, worktree isolation for concurrent sessions. | `Claude Code` `MCP` `Shell` |
+| **[AuraHelpdeskGraph](https://github.com/AlexisBalayre/AuraHelpdeskGraph)** | Support chatbot answering from a company's own past tickets. Vector search plus a Neo4j graph to follow links between related tickets, local models so no data leaves the network, retrieval only when the question needs it. | `Python` `Neo4j` `Ollama` |
 | **[RagDocs](https://github.com/AlexisBalayre/RagDocs)** | Private, API-free RAG over technical documentation with Milvus vector search and local LLMs. | `Python` `Milvus` `LlamaIndex` |
-| **[Aircraft Refuelling Prediction](https://github.com/AlexisBalayre/future-position-prediction-for-aircraft-refueling)** | Master's thesis with Airbus: YOLOv10 detection plus a custom SizPos-GRU sequence model predicting refuelling-port position in video. | `PyTorch` `OpenCV` `YOLOv10` |
+| **[Aircraft Refuelling Prediction](https://github.com/AlexisBalayre/future-position-prediction-for-aircraft-refueling)** | Master's thesis with Airbus: real-time computer vision that tracks an aircraft's fuel port and predicts its motion for autonomous refuelling, YOLOv10 detection plus a custom GRU sequence model, down to 2.15% error. | `PyTorch` `OpenCV` `YOLOv10` |
 
 ## 🛠️ Tech & Tools
 
@@ -41,10 +42,8 @@ AI Engineer specialising in real-time speech AI, with a dual background in Softw
 
 </div>
 
-</div>
-
 ## 🎓 Background
 
-Dual Master's in Computational Intelligence for Data Analytics ([Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)) and Data Intelligence ([ISEP, Paris](https://en.isep.fr/studying-at-isep/isep-engineering-master-degree/)). At Dassault Systèmes I built scalable data workflows and NLP pipelines (topic modelling, sentiment analysis, Generative AI, RAG) for competitive and market intelligence. My Master's research with Airbus at Cranfield combined LSTM, GRU, and Transformer architectures to improve predictive accuracy for automated aircraft refuelling systems.
+Dual Master's in Computational Intelligence for Data Analytics ([Cranfield University](https://www.cranfield.ac.uk/courses/taught/computational-intelligence-for-data-analytics)) and Data Intelligence ([ISEP, Paris](https://en.isep.fr/studying-at-isep/isep-engineering-master-degree/)). At Dassault Systèmes I applied NLP and generative AI (topic modelling, sentiment analysis, RAG, GraphRAG) over millions of records to build competitive and market intelligence tools. My Master's research with Airbus at Cranfield was real-time computer vision for autonomous aircraft refuelling, benchmarking LSTM, GRU and Transformer models on YOLOv10 detection.
 
 <img width="100%" src="assets/footer.svg" alt="" />
