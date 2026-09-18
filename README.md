@@ -34,7 +34,7 @@ Three layers of the same problem: agents write faster than humans review.
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
 | **[Pupitre](https://github.com/AlexisBalayre/pupitre)** | Control plane for running many Claude Code sessions in parallel: one git worktree per agent, a conflict radar, and a merge gate that blocks on build, tests, scope violations and technical-debt deltas. Every merge writes a decision record, so the code your agents write stays code you can explain. | `TypeScript` `Claude Code` `tmux` |
-| **[agent-init](https://github.com/AlexisBalayre/agent-init)** | One agent setup for five tools (Claude Code, Codex, opencode, Mistral Vibe, Cursor). Conventions, skills and blocking hooks live once in `.agents/`; a per-tool adapter speaks each host's protocol, and `doctor` proves the block actually landed. | `TypeScript` `Node` `Shell` |
+| **[agentspine](https://github.com/AlexisBalayre/agentspine)** | `npx agentspine` — one agent setup for five tools (Claude Code, Codex, opencode, Mistral Vibe, Cursor). Conventions, skills and blocking hooks live once in `.agents/`; a per-tool adapter speaks each host's protocol, and `doctor` proves the block actually landed. | `TypeScript` `Node` `Shell` |
 | **[claude-code-config](https://github.com/AlexisBalayre/claude-code-config)** | Drop-in Claude Code config for any repo: path-scoped rules, 34 skills, 12 subagents, 7 zero-token hooks, and a multi-agent PR review running in GitHub Actions with no model write channel to the PR. Stack-agnostic — `/adapt-to-project` fits it to the codebase. | `Claude Code` `GitHub Actions` `Shell` |
 
 ### AI systems & research
