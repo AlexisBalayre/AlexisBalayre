@@ -6,7 +6,6 @@
   <a href="https://alexis.balayre.com/"><img src="https://img.shields.io/badge/Portfolio-13327a?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://linkedin.com/in/alexis-balayre"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODYgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNyAyLjA3IDAgMSAxIDAtNC4xMyAyLjA3IDIuMDcgMCAwIDEgMCA0LjEzek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjggMCAwIC43OCAwIDEuNzN2MjAuNTRDMCAyMy4yMi44IDI0IDEuNzcgMjRoMjAuNDVjLjk4IDAgMS43OC0uNzggMS43OC0xLjczVjEuNzNDMjQgLjc4IDIzLjIgMCAyMi4yMiAweiIvPjwvc3ZnPgo=" alt="linkedin" /></a>
   <a href="mailto:alexis@balayre.com"><img src="https://img.shields.io/badge/Email-1e56a0?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AlexisBalayre&label=Profile%20views&color=1e56a0&style=for-the-badge" alt="profile views" />
 </p>
 
 </div>
